@@ -1,0 +1,3 @@
+Total occurrences of characters: 46
+Total non-whitespace characters: 38
+Total occurrences of letters: 35

@@ -1,0 +1,4 @@
+Total number of words: 15
+Total number of characters: 94
+Total number of non-whitespace characters: 79
+Total number of letters: 70

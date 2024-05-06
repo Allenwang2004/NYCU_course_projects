@@ -1,0 +1,7 @@
+g++ -std=c++11 main.cpp Document.cpp -I . -o HW7
+/home/share/demo_OOP112_2 Hw 07
+
+:wq 儲存離開
+:q! 強制離開
+
+valgrind --leak-check=full -s --show-leak-kinds=all --track-origins=yes ./Lab4-1
